@@ -1,0 +1,6 @@
+{
+  "item.starfallnuke.starfall_core": "Ядро Звездопада",
+  "entity.starfallnuke.starfall_projectile": "Падающая Звезда",
+  "tooltip.starfallnuke.starfall_core.line1": "ПКМ: Бросить ядерное ядро",
+  "tooltip.starfallnuke.starfall_core.line2": "Shift + ПКМ: Вызвать падающую звезду с неба"
+}

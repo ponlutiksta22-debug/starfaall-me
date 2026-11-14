@@ -1,0 +1,6 @@
+{
+  "item.starfallnuke.starfall_core": "Starfall Core",
+  "entity.starfallnuke.starfall_projectile": "Starfall Meteor",
+  "tooltip.starfallnuke.starfall_core.line1": "Right-Click: Throw Starfall Nuke",
+  "tooltip.starfallnuke.starfall_core.line2": "Shift + Right-Click: Call down a Shooting Star strike"
+}
